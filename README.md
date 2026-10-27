@@ -27,7 +27,4 @@ Use `pip` to install the required packages from the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-## Author 
-
-[Michael Diop](https://www.linkedin.com/in/michael-diop-1aa688270/)
 
